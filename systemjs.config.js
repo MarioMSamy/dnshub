@@ -24,6 +24,7 @@
     '@angular/common',
     '@angular/compiler',
     '@angular/core',
+    '@angular/router',
     '@angular/http',
     '@angular/platform-browser',
     '@angular/platform-browser-dynamic',
