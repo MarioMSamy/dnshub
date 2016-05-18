@@ -1,0 +1,19 @@
+{
+  "name": "dnshub",
+  "version": "1.0.0",
+  "description": "DNS Hub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vtremblay/dnshub.git"
+  },
+  "author": "Vincent Tremblay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vtremblay/dnshub/issues"
+  },
+  "homepage": "https://github.com/vtremblay/dnshub#readme"
+}
